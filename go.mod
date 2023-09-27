@@ -1,4 +1,4 @@
-module github.com/volatiletech/strmangle
+module github.com/mikewiacek/strmangle
 
 go 1.14
 
